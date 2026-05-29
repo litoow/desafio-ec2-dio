@@ -32,6 +32,7 @@ Lançamento da instância e verificação do status.
 ## 4. Capturas de Tela
 
 ![EC2](images/ec2-criada.png)
+![Security-Group](images/security-group.png)
 
 ## Conclusão
 
