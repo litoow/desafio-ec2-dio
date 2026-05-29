@@ -29,8 +29,9 @@ Realizei login na plataforma AWS e naveguei até o serviço EC2.
 ### 3. Inicialização
 Lançamento da instância e verificação do status.
 
-### 4. Conexão
-Conectei à instância utilizando SSH.
+## 4. Capturas de Tela
+
+![EC2](images/ec2-criada.png)
 
 ## Conclusão
 
